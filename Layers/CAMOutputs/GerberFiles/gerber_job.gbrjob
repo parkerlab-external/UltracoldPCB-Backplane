@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-10-05T19:44:27Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.340363,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "backplane_10(EC2)"
+        },
+        "Owner": "Colin Parker <cparker@gatech.edu>",
+        "Size": {
+            "X": 419.1,
+            "Y": 132.588
+        }
+    }
+}
